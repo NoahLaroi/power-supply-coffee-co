@@ -1,0 +1,9 @@
+.hours{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    list-style-type: none;
+    padding: 0;
+    color: black;
+}

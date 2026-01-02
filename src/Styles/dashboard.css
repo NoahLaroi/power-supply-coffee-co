@@ -1,0 +1,8 @@
+.Dashboard {
+    background-image: url("../images/coffee-shop-bg.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+}

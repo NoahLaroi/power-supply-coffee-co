@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Sans-serif', Arial, Helvetica;
+}
+nav {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    flex-direction: row;
+    height: 20vh;
+    width: 100vw;
+    align-items: center;
+    font: 16px , sans-serif;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+    color: black;
+}
